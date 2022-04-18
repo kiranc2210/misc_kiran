@@ -1,0 +1,19 @@
+2022-04-08 23:30:04,197 ********Appium Server Starting********
+2022-04-08 23:30:05,483 Could not connect to port 4723 on host 127.0.0.1
+2022-04-08 23:30:05,483 Could not get IP address for host: 127.0.0.1
+2022-04-08 23:30:16,169 ********Android Driver created********
+2022-04-08 23:30:16,169 *********LS10 Device Setup beggining*********
+2022-04-08 23:30:17,118 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-08 23:30:19,376 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-08 23:30:30,343 'Click on OK button in Choose a Account screen'
+2022-04-08 23:31:41,374 ********Appium Server Starting********
+2022-04-08 23:31:42,612 Could not connect to port 4723 on host 127.0.0.1
+2022-04-08 23:31:42,612 Could not get IP address for host: 127.0.0.1
+2022-04-08 23:31:53,099 ********Android Driver created********
+2022-04-08 23:31:53,099 *********LS10 Device Setup beggining*********
+2022-04-08 23:31:54,123 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-08 23:31:56,497 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-08 23:32:07,494 'Click on OK button in Choose a Account screen'
+2022-04-08 23:32:22,559 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F155C185B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/9ea11be1-5341-4d85-8d91-2fa9902f1673/element
+2022-04-08 23:32:24,626 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F155C18760>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/9ea11be1-5341-4d85-8d91-2fa9902f1673/element
+2022-04-08 23:32:26,659 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F155C18850>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/9ea11be1-5341-4d85-8d91-2fa9902f1673/element

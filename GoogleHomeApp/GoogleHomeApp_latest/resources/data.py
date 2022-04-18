@@ -1,0 +1,10 @@
+appPackageName='com.google.android.apps.chromecast.app'
+appActivityName='com.google.android.apps.chromecast.app.DiscoveryActivity'
+appWaitPackageName='com.google.android.apps.chromecast.app'
+appWaitActivityName='com.google.android.apps.chromecast.app.firstlaunch.FirstLaunchWizardActivity'
+wifissid='Linksys16717_2G'
+wifiPassword='Libre#123'
+FriendlyName="Lyric Speaker Box 2397b5"
+AccountName='Arun Kumar A'
+LinkingDeviceName='Lyric Speaker Box'
+portnumber='COM4'

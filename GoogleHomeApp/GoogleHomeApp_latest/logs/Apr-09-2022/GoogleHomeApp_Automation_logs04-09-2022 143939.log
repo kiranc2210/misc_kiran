@@ -1,0 +1,119 @@
+2022-04-09 14:39:39,422 ********Appium Server Starting********
+2022-04-09 14:39:40,755 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 14:39:40,755 Could not get IP address for host: 127.0.0.1
+2022-04-09 14:39:52,176 ********Android Driver created********
+2022-04-09 14:39:52,177 *********LS10 Device Setup beggining*********
+2022-04-09 14:39:52,711 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-09 14:39:54,961 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-09 14:40:06,079 'Click on OK button in Choose a Account screen'
+2022-04-09 14:40:42,704 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-09 14:40:53,711 'Click on OK button in Choose a Account screen'
+2022-04-09 14:40:54,980 *********click on Next*********
+2022-04-09 14:40:57,903 click on Plus icon on Home
+2022-04-09 14:41:10,608 Click on Setup a Device
+2022-04-09 14:41:21,700 click on New Device
+2022-04-09 14:41:21,834 *********click on Next*********
+2022-04-09 14:41:22,858 click on next Button Choose a home screen 
+2022-04-09 14:42:27,033 clck on yes button in the Lyric Speaker Box found screen
+2022-04-09 14:42:45,080 Did you hear setup tone and Click on yes button
+2022-04-09 14:42:46,110 click on Yes i'm in button in the Help to setup device
+2022-04-09 14:42:47,151 We are in Where is this Device? Screen & click on Room Name
+2022-04-09 14:42:50,030 Room Name Selected now click on next button to redirect to WIFI SSID list
+2022-04-09 14:43:22,438 we are in Create a unique Nacme screen, click on next Button
+2022-04-09 14:43:27,031 SSID Selected:Linksys16717_2Gclicked next button in the List Of ssid Screen
+2022-04-09 14:43:29,372 click on Next Button
+2022-04-09 14:45:34,475 Found Turn off AP isolation error popup
+2022-04-09 14:47:05,574 ********Appium Server Starting********
+2022-04-09 14:47:06,903 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 14:47:06,903 Could not get IP address for host: 127.0.0.1
+2022-04-09 14:47:18,136 ********Android Driver created********
+2022-04-09 14:47:18,136 *********LS10 Device Setup beggining*********
+2022-04-09 14:47:18,581 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-09 14:47:21,751 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-09 14:47:32,839 'Click on OK button in Choose a Account screen'
+2022-04-09 14:47:34,244 *********click on Next*********
+2022-04-09 14:47:36,264 click on Plus icon on Home
+2022-04-09 14:47:47,269 Click on Setup a Device
+2022-04-09 14:47:57,442 click on New Device
+2022-04-09 14:47:58,452 *********click on Next*********
+2022-04-09 14:47:59,507 click on next Button Choose a home screen 
+2022-04-09 14:49:04,028 clck on yes button in the Lyric Speaker Box found screen
+2022-04-09 14:49:22,278 Did you hear setup tone and Click on yes button
+2022-04-09 14:49:23,371 click on Yes i'm in button in the Help to setup device
+2022-04-09 14:49:24,447 We are in Where is this Device? Screen & click on Room Name
+2022-04-09 14:49:27,250 Room Name Selected now click on next button to redirect to WIFI SSID list
+2022-04-09 14:49:45,045 SSID Selected:Linksys16717_2Gclicked next button in the List Of ssid Screen
+2022-04-09 14:49:47,370 click on Next Button
+2022-04-09 14:51:52,448 Found Turn off AP isolation error popup
+2022-04-09 14:53:23,562 ********Appium Server Starting********
+2022-04-09 14:53:24,890 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 14:53:24,890 Could not get IP address for host: 127.0.0.1
+2022-04-09 14:53:36,364 ********Android Driver created********
+2022-04-09 14:53:36,364 *********LS10 Device Setup beggining*********
+2022-04-09 14:53:36,918 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-09 14:53:39,148 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-09 14:53:50,239 'Click on OK button in Choose a Account screen'
+2022-04-09 14:54:26,587 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-09 14:54:37,610 'Click on OK button in Choose a Account screen'
+2022-04-09 14:54:38,850 *********click on Next*********
+2022-04-09 14:54:42,873 click on Plus icon on Home
+2022-04-09 14:54:53,829 Click on Setup a Device
+2022-04-09 14:55:04,008 click on New Device
+2022-04-09 14:55:04,993 *********click on Next*********
+2022-04-09 14:55:06,002 click on next Button Choose a home screen 
+2022-04-09 14:55:14,191 selecting the FriendlyName:Lyric Speaker Box 21f384 in the list of Device
+2022-04-09 14:55:15,151 click on next button in the NearBy Devices Screen
+2022-04-09 14:55:30,974 Did you hear setup tone and Click on yes button
+2022-04-09 14:55:32,092 click on Yes i'm in button in the Help to setup device
+2022-04-09 14:55:33,179 We are in Where is this Device? Screen & click on Room Name
+2022-04-09 14:55:36,024 Room Name Selected now click on next button to redirect to WIFI SSID list
+2022-04-09 14:55:40,674 SSID Selected:Linksys16717_2Gclicked next button in the List Of ssid Screen
+2022-04-09 14:55:42,839 click on Next Button
+2022-04-09 14:57:47,032 Found Turn off AP isolation error popup
+2022-04-09 14:59:18,100 ********Appium Server Starting********
+2022-04-09 14:59:19,421 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 14:59:19,421 Could not get IP address for host: 127.0.0.1
+2022-04-09 14:59:30,516 ********Android Driver created********
+2022-04-09 14:59:30,516 *********LS10 Device Setup beggining*********
+2022-04-09 14:59:31,002 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-09 14:59:33,226 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-09 14:59:44,950 'Click on OK button in Choose a Account screen'
+2022-04-09 15:00:21,586 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-09 15:00:32,595 'Click on OK button in Choose a Account screen'
+2022-04-09 15:00:33,936 *********click on Next*********
+2022-04-09 15:00:35,890 click on Plus icon on Home
+2022-04-09 15:00:46,975 Click on Setup a Device
+2022-04-09 15:00:57,164 click on New Device
+2022-04-09 15:00:58,174 *********click on Next*********
+2022-04-09 15:00:59,207 click on next Button Choose a home screen 
+2022-04-09 15:02:03,463 clck on yes button in the Lyric Speaker Box found screen
+2022-04-09 15:02:31,767 Did you hear setup tone and Click on yes button
+2022-04-09 15:02:32,802 click on Yes i'm in button in the Help to setup device
+2022-04-09 15:02:33,945 We are in Where is this Device? Screen & click on Room Name
+2022-04-09 15:02:36,811 Room Name Selected now click on next button to redirect to WIFI SSID list
+2022-04-09 15:02:41,519 SSID Selected:Linksys16717_2Gclicked next button in the List Of ssid Screen
+2022-04-09 15:02:43,873 click on Next Button
+2022-04-09 15:04:48,602 Found Turn off AP isolation error popup
+2022-04-09 15:06:19,647 ********Appium Server Starting********
+2022-04-09 15:06:20,977 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 15:06:20,977 Could not get IP address for host: 127.0.0.1
+2022-04-09 15:06:32,285 ********Android Driver created********
+2022-04-09 15:06:32,285 *********LS10 Device Setup beggining*********
+2022-04-09 15:06:32,874 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-09 15:06:35,120 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-09 15:06:46,778 'Click on OK button in Choose a Account screen'
+2022-04-09 15:06:48,213 *********click on Next*********
+2022-04-09 15:06:50,371 click on Plus icon on Home
+2022-04-09 15:07:00,724 Click on Setup a Device
+2022-04-09 15:07:10,919 click on New Device
+2022-04-09 15:07:11,954 *********click on Next*********
+2022-04-09 15:07:13,042 click on next Button Choose a home screen 
+2022-04-09 15:08:17,309 clck on yes button in the Lyric Speaker Box found screen
+2022-04-09 15:08:33,933 Did you hear setup tone and Click on yes button
+2022-04-09 15:08:35,000 click on Yes i'm in button in the Help to setup device
+2022-04-09 15:08:36,100 We are in Where is this Device? Screen & click on Room Name
+2022-04-09 15:08:38,945 Room Name Selected now click on next button to redirect to WIFI SSID list
+2022-04-09 15:09:11,056 we are in Create a unique Nacme screen, click on next Button
+2022-04-09 15:09:15,665 SSID Selected:Linksys16717_2Gclicked next button in the List Of ssid Screen
+2022-04-09 15:09:17,990 click on Next Button
+2022-04-09 15:11:22,254 Found Turn off AP isolation error popup

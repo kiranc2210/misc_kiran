@@ -1,0 +1,24 @@
+2022-04-04 16:47:32,124 ********Appium Server Starting********
+2022-04-04 16:47:33,347 Could not connect to port 4723 on host 127.0.0.1
+2022-04-04 16:47:33,348 Could not get IP address for host: 127.0.0.1
+2022-04-04 16:47:43,525 ********Android Driver created********
+2022-04-04 16:47:44,267 ****Start Recording the App Screen****
+2022-04-04 16:47:44,267 *********LS10 Device Setup beggining*********
+2022-04-04 16:47:44,333 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-04 16:47:46,755 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-04 16:47:52,363 'Click on OK button in Choose a Account screen'
+2022-04-04 16:48:54,164 selecting the FriendlyName:Lyric Speaker Box 1e59ab in the list of Device
+2022-04-04 16:48:55,009 click on next button in the NearBy Devices Screen
+2022-04-04 16:49:25,862 Did you hear setup tone and Click on yes button
+2022-04-04 16:49:27,226 click on Yes i'm in button in the Help to setup device
+2022-04-04 16:49:28,253 We are in Where is this Device? Screen & click on Room Name
+2022-04-04 16:49:31,107 Room Name Selected now click on next button to redirect to WIFI SSID list
+2022-04-04 16:49:33,110 SSID Selected:TP-Link_7632clicked next button in the List Of ssid Screen
+2022-04-04 16:49:34,244 Enter Password: Enter Wi-Fi password
+2022-04-04 16:49:35,539 click on Next Button
+2022-04-04 16:50:22,454 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D0802C6D00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/7de03794-031c-4a39-9a03-03d7dc00213d/source
+2022-04-04 16:50:24,505 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D0802C6C10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/7de03794-031c-4a39-9a03-03d7dc00213d/source
+2022-04-04 16:50:26,539 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D0802C6E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/7de03794-031c-4a39-9a03-03d7dc00213d/source
+2022-04-04 16:50:30,604 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D080307130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/7de03794-031c-4a39-9a03-03d7dc00213d/appium/stop_recording_screen
+2022-04-04 16:50:32,638 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D080307340>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/7de03794-031c-4a39-9a03-03d7dc00213d/appium/stop_recording_screen
+2022-04-04 16:50:34,669 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D080307460>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/7de03794-031c-4a39-9a03-03d7dc00213d/appium/stop_recording_screen

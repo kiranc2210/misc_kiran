@@ -1,0 +1,54 @@
+2022-04-07 21:22:22,987 ********Appium Server Starting********
+2022-04-07 21:22:37,116 ********Android Driver created********
+2022-04-07 21:22:37,116 *********LS10 Device Setup beggining*********
+2022-04-07 21:22:37,621 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-07 21:22:39,815 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-07 21:22:46,024 'Click on OK button in Choose a Account screen'
+2022-04-07 21:23:22,111 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-07 21:23:28,070 'Click on OK button in Choose a Account screen'
+2022-04-07 21:23:29,377 *********click on Next*********
+2022-04-07 21:23:33,936 click on Plus icon on Home
+2022-04-07 21:23:44,298 Click on Setup a Device
+2022-04-07 21:23:54,476 click on New Device
+2022-04-07 21:23:55,462 *********click on Next*********
+2022-04-07 21:23:56,922 click on next Button Choose a home screen 
+2022-04-07 21:24:04,659 selecting the FriendlyName:Lyric Speaker Box 21f384 in the list of Device
+2022-04-07 21:24:05,587 click on next button in the NearBy Devices Screen
+2022-04-07 21:24:23,611 Did you hear setup tone and Click on yes button
+2022-04-07 21:24:24,654 click on Yes i'm in button in the Help to setup device
+2022-04-07 21:24:25,719 We are in Where is this Device? Screen & click on Room Name
+2022-04-07 21:24:28,541 Room Name Selected now click on next button to redirect to WIFI SSID list
+2022-04-07 21:24:33,167 SSID Selected:Linksys16717_2Gclicked next button in the List Of ssid Screen
+2022-04-07 21:24:35,524 click on Next Button
+2022-04-07 21:26:40,562 Found Turn off AP isolation error popup
+2022-04-07 21:28:11,746 ********Appium Server Starting********
+2022-04-07 21:28:12,992 Could not connect to port 4723 on host 127.0.0.1
+2022-04-07 21:28:12,992 Could not get IP address for host: 127.0.0.1
+2022-04-07 21:28:22,735 ********Android Driver created********
+2022-04-07 21:28:22,735 *********LS10 Device Setup beggining*********
+2022-04-07 21:28:23,282 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-07 21:28:25,504 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-07 21:28:31,491 'Click on OK button in Choose a Account screen'
+2022-04-07 21:29:08,084 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-07 21:29:14,073 'Click on OK button in Choose a Account screen'
+2022-04-07 21:29:15,300 *********click on Next*********
+2022-04-07 21:29:17,027 click on Plus icon on Home
+2022-04-07 21:29:27,325 Click on Setup a Device
+2022-04-07 21:29:37,511 click on New Device
+2022-04-07 21:29:38,526 *********click on Next*********
+2022-04-07 21:29:39,810 click on next Button Choose a home screen 
+2022-04-07 21:29:47,732 selecting the FriendlyName:Lyric Speaker Box 21f384 in the list of Device
+2022-04-07 21:29:48,629 click on next button in the NearBy Devices Screen
+2022-04-07 21:30:05,127 Did you hear setup tone and Click on yes button
+2022-04-07 21:30:06,182 click on Yes i'm in button in the Help to setup device
+2022-04-07 21:30:07,230 We are in Where is this Device? Screen & click on Room Name
+2022-04-07 21:30:10,045 Room Name Selected now click on next button to redirect to WIFI SSID list
+2022-04-07 21:30:27,842 SSID Selected:Linksys16717_2Gclicked next button in the List Of ssid Screen
+2022-04-07 21:30:30,080 click on Next Button
+2022-04-07 21:32:34,796 Found Turn off AP isolation error popup
+2022-04-07 21:34:07,620 ********Appium Server Starting********
+2022-04-07 21:34:09,473 Could not connect to port 4723 on host 127.0.0.1
+2022-04-07 21:34:09,473 Could not get IP address for host: 127.0.0.1
+2022-04-07 21:34:11,575 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A69BD8A190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+2022-04-07 21:34:13,641 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A69BD8A5B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+2022-04-07 21:34:15,707 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A69BD31F70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session

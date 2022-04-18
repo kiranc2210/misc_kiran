@@ -1,0 +1,445 @@
+2022-01-31 13:42:53,573 ####SetFacDefault
+####
+2022-01-31 13:42:55,575 #
+#
+2022-01-31 13:42:55,575 ## 
+#
+2022-01-31 13:42:55,575 ## 
+#
+2022-01-31 13:42:55,576 ## 
+#
+2022-01-31 13:42:55,576 ## SetFacDefault
+#
+2022-01-31 13:42:55,709 #rm: /data/: Read-only file system
+#
+2022-01-31 13:42:57,711 ##
+2022-01-31 13:42:57,834 #[   93.070059@3] sysrq: SysRq : Emergency Remount R/O
+#
+2022-01-31 13:42:57,838 #bl31 reboot reason: 0xd
+#
+2022-01-31 13:42:57,841 #bl31 reboot reason: 0x1
+#
+2022-01-31 13:42:57,842 #system cmd  1.
+#
+2022-01-31 13:42:57,867 #AXG:BL1:d1dbf2:a4926f;FEAT:E0DC318C:2000;POC:F;EMMC:800;NAND:0;READ:0;0.0;CHK:0;
+#
+2022-01-31 13:42:57,869 #sdio debug board detected 
+#
+2022-01-31 13:42:57,870 #TE: 21995
+#
+2022-01-31 13:42:57,870 #
+#
+2022-01-31 13:42:57,877 #BL2 Built : 10:38:43, Apr 14 2020. axg gf27ed33 - jenkins@walle02-sh
+#
+2022-01-31 13:42:57,877 #
+#
+2022-01-31 13:42:57,879 #set vcck to 1100 mv
+#
+2022-01-31 13:42:57,880 #set vddee to 950 mv
+#
+2022-01-31 13:42:57,882 #Board ID = 2
+#
+2022-01-31 13:42:57,883 #CPU clk: 1200MHz
+#
+2022-01-31 13:42:57,885 #DDR low power enabled
+#
+2022-01-31 13:42:57,888 #DDR3 chl: Rank0 16bit @ 912MHz
+#
+2022-01-31 13:42:57,928 #bist_test rank: 0 1c 02 37 26 0e 3f 1b 02 34 29 12 41 00 00 00 00 00 00 00 00 00 00 00 00 712   - PASS
+#
+2022-01-31 13:42:57,930 #Rank0: 512MB(auto)-2T-13
+#
+2022-01-31 13:42:57,932 #AddrBus test pass!
+#
+2022-01-31 13:42:57,933 #NAND init
+#
+2022-01-31 13:42:57,945 #Load FIP HDR from NAND, src: 0x0000c000, des: 0x01700000, size: 0x00004000, part: 0
+#
+2022-01-31 13:42:57,952 #Load BL3x from NAND, src: 0x00010000, des: 0x01704000, size: 0x000b7c00, part: 0
+#
+2022-01-31 13:42:58,139 #NOTICE:  BL31: v1.3(release):3edeb02
+#
+2022-01-31 13:42:58,143 #NOTICE:  BL31: Built : 16:43:54, Apr 14 2020
+#
+2022-01-31 13:42:58,146 #NOTICE:  BL31: AXG normal boot!
+#
+2022-01-31 13:42:58,169 #NOTICE:  BL31: BL33 decompress pass
+#
+2022-01-31 13:42:58,170 #OPS=0x43
+#
+2022-01-31 13:42:58,176 #[Image: axg_v1.1.3494-9ec8345 2020-04-17 18:16:39 jenkins@walle02-sh]
+#
+2022-01-31 13:42:58,181 #25 0c 43 00 e2 32 fb 1f 8f ea e7 61 39 78 f2 10 
+#
+2022-01-31 13:42:58,183 #bl30:axg ver: 9 mode: 0
+#
+2022-01-31 13:42:58,185 #bl30:axg thermal0
+#
+2022-01-31 13:42:58,187 #[0.015879 Inits done]
+#
+2022-01-31 13:42:58,188 #secure task start!
+#
+2022-01-31 13:42:58,190 #high task start!
+#
+2022-01-31 13:42:58,191 #low task start!
+#
+2022-01-31 13:42:58,197 #ERROR:   Error initializing runtime service opteed_fast
+#
+2022-01-31 13:42:58,197 #
+#
+2022-01-31 13:42:58,197 #
+#
+2022-01-31 13:42:58,201 #U-Boot 2015.01 (Apr 23 2021 - 18:54:14)
+#
+2022-01-31 13:42:58,201 #
+#
+2022-01-31 13:42:58,202 #DRAM:  512 MiB
+#
+2022-01-31 13:42:58,205 #Relocation Offset is: 1eeb0000
+#
+2022-01-31 13:42:58,237 #mmu cfg end: 0x20000000
+#
+2022-01-31 13:42:58,239 #mmu cfg end: 0x20000000
+#
+2022-01-31 13:42:58,248 #register usb cfg[0][1] = 000000001ff6e080
+#
+2022-01-31 13:42:58,251 #aml_i2c_init_port init regs for 0
+#
+2022-01-31 13:42:58,256 #NAND:  get_sys_clk_rate_mtd() 292, clock setting 200!
+#
+2022-01-31 13:42:58,259 #bus cycle0: 6,timing: 7
+#
+2022-01-31 13:42:58,262 #NAND device id: 98 dc 90 26 76 16 
+#
+2022-01-31 13:42:58,272 #NAND device: Manufacturer ID: 0x98, Chip ID: 0x98 (Toshiba A revision NAND 4Gib TC58NVG2S0HTA00/F59L4G81CA(2L) )
+#
+2022-01-31 13:42:58,276 #get_sys_clk_rate_mtd() 292, clock setting 200!
+#
+2022-01-31 13:42:58,281 #m3_nand_adjust_timing() sys_clk_rate 200, bus_c 6, bus_t 7
+#
+2022-01-31 13:42:58,285 #oob_fill_cnt =32 oob_size =256, bch_bytes =54
+#
+2022-01-31 13:42:58,289 #ecc mode:9 ecc_page_num=4 eep_need_oobsize=56
+#
+2022-01-31 13:42:58,294 #plane_num=1 writesize=0x1000 ecc.size=0x200 bch_mode=1
+#
+2022-01-31 13:42:58,296 #oob avail size 6
+#
+2022-01-31 13:42:58,303 #Creating 1 MTD partitions on "A revision NAND 4Gib TC58NVG2S0HTA00/F59L4G81CA(2L) ":
+#
+2022-01-31 13:42:58,307 #0x000000000000-0x000000400000 : "bootloader"
+#
+2022-01-31 13:42:58,313 #A revision NAND 4Gib TC58NVG2S0HTA00/F59L4G81CA(2L)  initialized ok
+#
+2022-01-31 13:42:58,317 #get_sys_clk_rate_mtd() 292, clock setting 200!
+#
+2022-01-31 13:42:58,320 #bus cycle0: 6,timing: 7
+#
+2022-01-31 13:42:58,323 #NAND device id: 98 dc 90 26 76 16 
+#
+2022-01-31 13:42:58,333 #NAND device: Manufacturer ID: 0x98, Chip ID: 0x98 (Toshiba A revision NAND 4Gib TC58NVG2S0HTA00/F59L4G81CA(2L) )
+#
+2022-01-31 13:42:58,337 #get_sys_clk_rate_mtd() 292, clock setting 200!
+#
+2022-01-31 13:42:58,342 #m3_nand_adjust_timing() sys_clk_rate 200, bus_c 6, bus_t 7
+#
+2022-01-31 13:42:58,346 #oob_fill_cnt =32 oob_size =256, bch_bytes =54
+#
+2022-01-31 13:42:58,351 #ecc mode:9 ecc_page_num=4 eep_need_oobsize=56
+#
+2022-01-31 13:42:58,352 #PLANE change!
+#
+2022-01-31 13:42:58,357 #plane_num=1 writesize=0x1000 ecc.size=0x200 bch_mode=1
+#
+2022-01-31 13:42:58,362 #aml_nand_init :oobmul=1,oobfree.length=16,oob_size=256
+#
+2022-01-31 13:42:58,363 #oob avail size 16
+#
+2022-01-31 13:42:58,364 #nbbt=20
+#
+2022-01-31 13:42:58,365 #nenv=24
+#
+2022-01-31 13:42:58,366 #nkey=32
+#
+2022-01-31 13:42:58,367 #ndtb=40
+#
+2022-01-31 13:42:58,367 #nddr=44
+#
+2022-01-31 13:42:58,373 #bbt_start=20 env_start=24 key_start=32 dtb_start=40 ddr_start=44 
+#
+2022-01-31 13:42:58,378 #nbbt: info size=0x800 max_scan_blk=24, start_blk=20
+#
+2022-01-31 13:42:58,384 #nbbt : phy_blk_addr=20, ec=0, phy_page_addr=0, timestamp=1
+#
+2022-01-31 13:42:58,385 #nbbt free list: 
+#
+2022-01-31 13:42:58,388 #blockN=21, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,391 #blockN=22, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,394 #blockN=23, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,397 #aml_nand_scan_rsv_info 1134: page_num=1
+#
+2022-01-31 13:42:58,400 #aml_nand_scan_rsv_info 1137
+#
+2022-01-31 13:42:58,402 #nbbt valid addr: 500000
+#
+2022-01-31 13:42:58,406 #aml_nand_bbt_check 1258 bbt is valid, reading.
+#
+2022-01-31 13:42:58,417 #aml_nand_read_rsv_info:446,read nbbt info to 500000
+#
+2022-01-31 13:42:58,418 #nenv: info size=0x10000 max_scan_blk=32, start_blk=24
+#
+2022-01-31 13:42:58,422 #nenv : phy_blk_addr=25, ec=0, phy_page_addr=0, timestamp=2
+#
+2022-01-31 13:42:58,424 #nenv free list: 
+#
+2022-01-31 13:42:58,430 #blockN=24, ec=0, dirty_flag=1
+#
+2022-01-31 13:42:58,431 #blockN=26, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,432 #blockN=27, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,435 #blockN=28, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,438 #blockN=29, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,443 #blockN=30, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,443 #blockN=31, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,447 #aml_nand_scan_rsv_info 1134: page_num=16
+#
+2022-01-31 13:42:58,450 #aml_nand_scan_rsv_info 1137
+#
+2022-01-31 13:42:58,460 #nenv valid addr: 660000
+#
+2022-01-31 13:42:58,465 #nkey: info size=0x40000 max_scan_blk=40, start_blk=32
+#
+2022-01-31 13:42:58,471 #nkey : phy_blk_addr=32, ec=0, phy_page_addr=0, timestamp=1
+#
+2022-01-31 13:42:58,475 #nkey free list: 
+#
+2022-01-31 13:42:58,476 #blockN=33, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,478 #blockN=34, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,481 #blockN=35, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,484 #blockN=36, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,486 #blockN=37, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,489 #blockN=38, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,492 #blockN=39, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,496 #aml_nand_scan_rsv_info 1134: page_num=64
+#
+2022-01-31 13:42:58,498 #aml_nand_scan_rsv_info 1137
+#
+2022-01-31 13:42:58,511 #nkey valid addr: 800000
+#
+2022-01-31 13:42:58,516 #ndtb: info size=0x40000 max_scan_blk=44, start_blk=40
+#
+2022-01-31 13:42:58,521 #ndtb : phy_blk_addr=40, ec=1, phy_page_addr=0, timestamp=4
+#
+2022-01-31 13:42:58,523 #ndtb free list: 
+#
+2022-01-31 13:42:58,526 #blockN=41, ec=0, dirty_flag=1
+#
+2022-01-31 13:42:58,529 #blockN=42, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,551 #blockN=43, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,551 #aml_nand_scan_rsv_info 1134: page_num=64
+#
+2022-01-31 13:42:58,552 #aml_nand_scan_rsv_info 1137
+#
+2022-01-31 13:42:58,552 #ndtb valid addr: a00000
+#
+2022-01-31 13:42:58,555 #nddr: info size=0x800 max_scan_blk=46, start_blk=44
+#
+2022-01-31 13:42:58,560 #nddr : phy_blk_addr=-1, ec=0, phy_page_addr=0, timestamp=0
+#
+2022-01-31 13:42:58,562 #nddr free list: 
+#
+2022-01-31 13:42:58,565 #blockN=44, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,567 #blockN=45, ec=-1, dirty_flag=0
+#
+2022-01-31 13:42:58,571 #aml_nand_scan_rsv_info 1134: page_num=1
+#
+2022-01-31 13:42:58,574 #nddr valid addr: fffffffffffc0000
+#
+2022-01-31 13:42:58,579 #aml_nand_rsv_info_check_except_bbt 1228 NO nddr exist
+#
+2022-01-31 13:42:58,582 #tpl: off 16777216, size 8388608
+#
+2022-01-31 13:42:58,586 # NAND bbt detect factory Bad block at 18000000 
+#
+2022-01-31 13:42:58,591 # NAND bbt detect factory Bad block at 18040000 
+#
+2022-01-31 13:42:58,598 #Creating 8 MTD partitions on "A revision NAND 4Gib TC58NVG2S0HTA00/F59L4G81CA(2L) ":
+#
+2022-01-31 13:42:58,601 #0x000001000000-0x000001800000 : "tpl"
+#
+2022-01-31 13:42:58,605 #0x000001800000-0x000001a00000 : "misc"
+#
+2022-01-31 13:42:58,608 #0x000001a00000-0x000001c00000 : "logo"
+#
+2022-01-31 13:42:58,612 #0x000001c00000-0x000002c00000 : "recovery"
+#
+2022-01-31 13:42:58,616 #0x000002c00000-0x000003b00000 : "boot"
+#
+2022-01-31 13:42:58,619 #0x000003b00000-0x000009f00000 : "system"
+#
+2022-01-31 13:42:58,623 #0x000009f00000-0x000012b00000 : "chrome"
+#
+2022-01-31 13:42:58,626 #0x000012b00000-0x000020000000 : "data"
+#
+2022-01-31 13:42:58,631 # NAND bbt detect factory Bad block at 18000000 
+#
+2022-01-31 13:42:58,635 # NAND bbt detect factory Bad block at 18040000 
+#
+2022-01-31 13:42:58,641 #A revision NAND 4Gib TC58NVG2S0HTA00/F59L4G81CA(2L)  initialized ok
+#
+2022-01-31 13:42:58,645 #MMC:   aml_priv->desc_buf = 0x000000001ecb02e0
+#
+2022-01-31 13:42:58,649 #aml_priv->desc_buf = 0x000000001ecb2620
+#
+2022-01-31 13:42:58,652 #SDIO Port B: 0, SDIO Port C: 1
+#
+2022-01-31 13:42:58,655 #uboot env amlnf_env_read : ####
+#
+2022-01-31 13:42:58,660 #aml_nand_read_rsv_info:446,read nenv info to 660000
+#
+2022-01-31 13:42:58,665 #In:    serial
+#
+2022-01-31 13:42:58,666 #Out:   serial
+#
+2022-01-31 13:42:58,667 #Err:   serial
+#
+2022-01-31 13:42:58,670 #aml log : internal sys error!
+#
+2022-01-31 13:42:58,672 #reboot_mode=normal
+#
+2022-01-31 13:42:58,678 #[store]To run cmd[amlnf dtb_read 0x1000000 0x40000]
+#
+2022-01-31 13:42:58,678 #sub cmd dtb
+#
+2022-01-31 13:42:58,679 #new argv[1] dtb_read
+#
+2022-01-31 13:42:58,681 #do_dtb_ops(): argc 4
+#
+2022-01-31 13:42:58,682 #arg 0: amlnf
+#
+2022-01-31 13:42:58,684 #arg 1: dtb_read
+#
+2022-01-31 13:42:58,685 #arg 2: 0x1000000
+#
+2022-01-31 13:42:58,687 #arg 3: 0x40000
+#
+2022-01-31 13:42:58,689 #do_dtb_ops() read
+#
+2022-01-31 13:42:58,691 #amlnf_dtb_read: ####
+#
+2022-01-31 13:42:58,695 #aml_nand_read_rsv_info:446,read ndtb info to a00000
+#
+2022-01-31 13:42:58,709 #do_dtb_ops(): 262144 bytes read : OK
+#
+2022-01-31 13:42:58,712 #      Amlogic multi-DTB tool
+#
+2022-01-31 13:42:58,715 #      Single DTB detected
+#
+2022-01-31 13:42:58,719 #Net:   sysnopsys gmac3.7
+#
+2022-01-31 13:42:58,749 #Phy 0 not found
+#
+2022-01-31 13:42:58,758 #dwmac.ff3f0000amlkey_init() enter!
+#
+2022-01-31 13:42:58,760 #amlnf_key_read: ####
+#
+2022-01-31 13:42:58,765 #aml_nand_read_rsv_info:446,read nkey info to 800000
+#
+2022-01-31 13:42:58,787 #[EFUSE_MSG]keynum is 4
+#
+2022-01-31 13:42:58,793 #MACADDR:02:8f:1f:fb:32:e2(from chipid)
+#
+2022-01-31 13:42:58,793 #
+#
+2022-01-31 13:42:58,798 #Start read misc partition datas!
+#
+2022-01-31 13:42:58,801 #[burnup]Rd:Up sz 0x440 to align 0x1000
+#
+2022-01-31 13:42:58,802 #info->attemp_times = 0
+#
+2022-01-31 13:42:58,804 #info->active_slot = 0
+#
+2022-01-31 13:42:58,807 #info->slot_info[0].bootable = 1
+#
+2022-01-31 13:42:58,810 #info->slot_info[0].online = 1
+#
+2022-01-31 13:42:58,813 #info->slot_info[1].bootable = 0
+#
+2022-01-31 13:42:58,815 #info->slot_info[1].online = 0
+#
+2022-01-31 13:42:58,817 #info->attemp_times = 0
+#
+2022-01-31 13:42:58,819 #attemp_times = 0 
+#
+2022-01-31 13:42:58,821 #active slot = 0 
+#
+2022-01-31 13:42:58,823 #wipe_data=successful
+#
+2022-01-31 13:42:58,825 #wipe_cache=successful
+#
+2022-01-31 13:42:58,826 #recovery_status=
+#
+2022-01-31 13:42:58,828 #upgrade_step=0
+#
+2022-01-31 13:42:58,834 #[aml_i2c_xfer] error ret = -5 	i2c master b current slave addr is 0x1f
+#
+2022-01-31 13:42:58,837 #i2c_write: i2c transfer failed
+#
+2022-01-31 13:42:58,839 #Error writing the chip: -5
+#
+2022-01-31 13:42:58,856 #[aml_i2c_xfer] error ret = -5 	i2c master b current slave addr is 0x1f
+#
+2022-01-31 13:42:58,859 #i2c_write: i2c transfer failed
+#
+2022-01-31 13:42:58,862 #Error writing the chip: -5
+#
+2022-01-31 13:42:58,879 #[aml_i2c_xfer] error ret = -5 	i2c master b current slave addr is 0x1f
+#
+2022-01-31 13:42:58,882 #i2c_write: i2c transfer failed
+#
+2022-01-31 13:42:58,884 #Error writing the chip: -5
+#
+2022-01-31 13:42:58,901 #[aml_i2c_xfer] error ret = -5 	i2c master b current slave addr is 0x1f
+#
+2022-01-31 13:42:58,924 #i2c_write: i2c transfer failed
+#
+2022-01-31 13:42:58,924 #Error writing the chip: -5
+#
+2022-01-31 13:42:58,925 #s_version: U-Boot 2015.01
+#
+2022-01-31 13:42:58,928 #amlkey_init() enter!
+#
+2022-01-31 13:42:58,931 #amlkey_init() 71: already init!
+#
+2022-01-31 13:42:58,933 #[EFUSE_MSG]keynum is 4
+#
+2022-01-31 13:42:58,942 #[KM]Error:f[key_manage_query_size]L515:key[mac] not programed yet
+#
+2022-01-31 13:42:58,949 #[KM]Error:f[key_manage_query_size]L515:key[deviceid] not programed yet
+#
+2022-01-31 13:42:59,055 #Hit Enter or space or Ctrl+C key to stop autoboot -- :  1  0 
+#
+2022-01-31 13:42:59,057 #CONFIG_SYSTEM_AS_ROOT: null 
+#
+2022-01-31 13:42:59,059 #system_mode: 0
+#
+2022-01-31 13:42:59,103 #[burnup]Rd:Up sz 0xb7bcf6 to align 0x1000
+#

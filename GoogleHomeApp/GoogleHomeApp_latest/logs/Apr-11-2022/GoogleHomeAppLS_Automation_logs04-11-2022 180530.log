@@ -1,0 +1,102 @@
+2022-04-11 18:05:30,414 ********Appium Server Starting********
+2022-04-11 18:05:31,638 Could not connect to port 4723 on host 127.0.0.1
+2022-04-11 18:05:31,638 Could not get IP address for host: 127.0.0.1
+2022-04-11 18:05:33,703 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FA8066B580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+2022-04-11 18:05:35,742 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FA8066BA00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+2022-04-11 18:05:37,763 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FA8066BB50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+2022-04-11 18:05:57,649 ********Android Driver created********
+2022-04-11 18:05:57,649 *********LS10 Device Setup beggining*********
+2022-04-11 18:05:58,193 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-11 18:06:00,443 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 18:06:12,002 'Click on OK button in Choose a Account screen'
+2022-04-11 18:06:48,007 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 18:06:58,985 'Click on OK button in Choose a Account screen'
+2022-04-11 18:07:14,631 *********click on Next*********
+2022-04-11 18:07:16,357 click on Plus icon on Home
+2022-04-11 18:07:26,686 Click on Setup a Device
+2022-04-11 18:07:37,378 click on New Device
+2022-04-11 18:11:47,356 ********Appium Server Starting********
+2022-04-11 18:11:48,575 Could not connect to port 4723 on host 127.0.0.1
+2022-04-11 18:11:48,575 Could not get IP address for host: 127.0.0.1
+2022-04-11 18:11:58,805 ********Android Driver created********
+2022-04-11 18:11:58,805 *********LS10 Device Setup beggining*********
+2022-04-11 18:11:59,321 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-11 18:12:02,042 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 18:12:13,189 'Click on OK button in Choose a Account screen'
+2022-04-11 18:12:49,601 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 18:13:00,564 'Click on OK button in Choose a Account screen'
+2022-04-11 18:13:02,144 *********click on Next*********
+2022-04-11 18:13:03,938 click on Plus icon on Home
+2022-04-11 18:13:14,222 Click on Setup a Device
+2022-04-11 18:13:24,895 click on New Device
+2022-04-11 18:17:34,793 ********Appium Server Starting********
+2022-04-11 18:17:36,041 Could not connect to port 4723 on host 127.0.0.1
+2022-04-11 18:17:36,041 Could not get IP address for host: 127.0.0.1
+2022-04-11 18:17:46,300 ********Android Driver created********
+2022-04-11 18:17:46,300 *********LS10 Device Setup beggining*********
+2022-04-11 18:17:46,852 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-11 18:17:49,071 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 18:18:00,204 'Click on OK button in Choose a Account screen'
+2022-04-11 18:19:34,247 ********Appium Server Starting********
+2022-04-11 18:19:35,466 Could not connect to port 4723 on host 127.0.0.1
+2022-04-11 18:19:35,466 Could not get IP address for host: 127.0.0.1
+2022-04-11 18:19:45,716 ********Android Driver created********
+2022-04-11 18:19:45,716 *********LS10 Device Setup beggining*********
+2022-04-11 18:19:46,263 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-11 18:19:48,502 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 18:19:59,576 'Click on OK button in Choose a Account screen'
+2022-04-11 18:20:35,104 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 18:20:46,070 'Click on OK button in Choose a Account screen'
+2022-04-11 18:20:47,400 *********click on Next*********
+2022-04-11 18:20:49,397 click on Plus icon on Home
+2022-04-11 18:21:00,392 Click on Setup a Device
+2022-04-11 18:21:11,471 click on New Device
+2022-04-11 18:21:11,628 *********click on Next*********
+2022-04-11 18:21:12,659 click on next Button Choose a home screen 
+2022-04-11 18:24:50,942 ********Appium Server Starting********
+2022-04-11 18:24:52,145 Could not connect to port 4723 on host 127.0.0.1
+2022-04-11 18:24:52,145 Could not get IP address for host: 127.0.0.1
+2022-04-11 18:25:02,343 ********Android Driver created********
+2022-04-11 18:25:02,344 *********LS10 Device Setup beggining*********
+2022-04-11 18:25:02,900 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-11 18:25:05,138 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 18:25:16,331 'Click on OK button in Choose a Account screen'
+2022-04-11 18:25:53,048 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 18:26:04,057 'Click on OK button in Choose a Account screen'
+2022-04-11 18:26:16,988 *********click on Next*********
+2022-04-11 18:26:20,558 click on Plus icon on Home
+2022-04-11 18:26:31,409 Click on Setup a Device
+2022-04-11 18:26:41,569 click on New Device
+2022-04-11 18:30:51,053 ********Appium Server Starting********
+2022-04-11 18:30:52,276 Could not connect to port 4723 on host 127.0.0.1
+2022-04-11 18:30:52,276 Could not get IP address for host: 127.0.0.1
+2022-04-11 18:31:02,486 ********Android Driver created********
+2022-04-11 18:31:02,486 *********LS10 Device Setup beggining*********
+2022-04-11 18:31:03,020 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-11 18:31:05,239 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 18:31:16,359 'Click on OK button in Choose a Account screen'
+2022-04-11 18:31:52,546 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 18:32:03,546 'Click on OK button in Choose a Account screen'
+2022-04-11 18:32:17,078 *********click on Next*********
+2022-04-11 18:32:19,885 click on Plus icon on Home
+2022-04-11 18:32:30,841 Click on Setup a Device
+2022-04-11 18:32:41,010 click on New Device
+2022-04-11 18:32:42,017 *********click on Next*********
+2022-04-11 18:32:43,035 click on next Button Choose a home screen 
+2022-04-11 18:36:21,569 ********Appium Server Starting********
+2022-04-11 18:36:22,798 Could not connect to port 4723 on host 127.0.0.1
+2022-04-11 18:36:22,798 Could not get IP address for host: 127.0.0.1
+2022-04-11 18:36:33,027 ********Android Driver created********
+2022-04-11 18:36:33,028 *********LS10 Device Setup beggining*********
+2022-04-11 18:36:33,571 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-11 18:36:35,811 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 18:36:46,964 'Click on OK button in Choose a Account screen'
+2022-04-11 18:37:23,713 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 18:37:34,660 'Click on OK button in Choose a Account screen'
+2022-04-11 18:37:41,550 *********click on Next*********
+2022-04-11 18:37:45,070 click on Plus icon on Home
+2022-04-11 18:37:56,034 Click on Setup a Device
+2022-04-11 18:38:06,227 click on New Device
+2022-04-11 18:38:07,222 *********click on Next*********
+2022-04-11 18:38:08,244 click on next Button Choose a home screen 
+2022-04-11 18:40:02,472 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FA8069F8B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/a33693d1-1512-4a02-9a79-eaadf2ea4bec/touch/perform

@@ -1,0 +1,19 @@
+'''actions = TouchAction(self.driver)
+        actions.press(el=None, x=280, y=1222).move_to(el=None, x=277, y=617).release().perform()
+        what_are_you_setting_up=WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ANDROID_UIAUTOMATOR, locators.What_are_you_setting_up)))
+        if what_are_you_setting_up.text == 'What are you setting up?':
+            notnow_link=WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.ANDROID_UIAUTOMATOR, locators.not_now)))
+            logger.info('no Device Found click not now link on the What are you setting up? Screen')
+            action.tap_on_element(driver, notnow_link)
+            print('no Device Found click not now link on the What are you setting up? Screen')
+            return 'what se are you setting up'''
+			
+			
+			No Device Found. Make sure device are turned on and available to connect.
+			
+			'''click_next=WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.ANDROID_UIAUTOMATOR, locators.Next_btn)))
+    logger.info("*********click on"+" "+click_next.text+"*********")
+    action.tap_on_element(driver,click_next)
+    print("click on next Button Choose a home screen ")
+    logger.info("click on next Button Choose a home screen ")
+    '''

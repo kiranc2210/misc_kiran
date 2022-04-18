@@ -1,0 +1,4 @@
+2022-04-04 16:36:58,900 ********Appium Server Starting********
+2022-04-04 16:37:00,126 Could not connect to port 4723 on host 127.0.0.1
+2022-04-04 16:37:00,127 Could not get IP address for host: 127.0.0.1
+2022-04-04 16:37:10,064 ********Android Driver created********

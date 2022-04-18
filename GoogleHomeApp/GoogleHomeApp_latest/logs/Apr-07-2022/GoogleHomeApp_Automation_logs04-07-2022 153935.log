@@ -1,0 +1,113 @@
+2022-04-07 15:39:35,476 ********Appium Server Starting********
+2022-04-07 15:39:36,689 Could not connect to port 4723 on host 127.0.0.1
+2022-04-07 15:39:36,690 Could not get IP address for host: 127.0.0.1
+2022-04-07 15:39:46,663 ********Android Driver created********
+2022-04-07 15:39:46,663 *********LS10 Device Setup beggining*********
+2022-04-07 15:40:02,892 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-07 15:40:05,137 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-07 15:40:11,133 'Click on OK button in Choose a Account screen'
+2022-04-07 15:40:43,057 selecting the FriendlyName:Lyric Speaker Box 2397b5 in the list of Device
+2022-04-07 15:40:44,012 click on next button in the NearBy Devices Screen
+2022-04-07 15:41:00,095 Did you hear setup tone and Click on yes button
+2022-04-07 15:41:01,194 click on Yes i'm in button in the Help to setup device
+2022-04-07 15:41:02,191 We are in Where is this Device? Screen & click on Room Name
+2022-04-07 15:41:05,067 Room Name Selected now click on next button to redirect to WIFI SSID list
+2022-04-07 15:41:09,786 SSID Selected:Libreclicked next button in the List Of ssid Screen
+2022-04-07 15:41:12,075 click on Next Button
+2022-04-07 15:43:15,965 Found Turn off AP isolation error popup
+2022-04-07 15:44:41,654 ********Appium Server Starting********
+2022-04-07 15:44:42,875 Could not connect to port 4723 on host 127.0.0.1
+2022-04-07 15:44:42,875 Could not get IP address for host: 127.0.0.1
+2022-04-07 15:44:51,420 ********Android Driver created********
+2022-04-07 15:44:51,420 *********LS10 Device Setup beggining*********
+2022-04-07 15:44:52,271 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-07 15:44:54,515 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-07 15:45:00,540 'Click on OK button in Choose a Account screen'
+2022-04-07 15:45:33,004 selecting the FriendlyName:Lyric Speaker Box 2397b5 in the list of Device
+2022-04-07 15:45:33,841 click on next button in the NearBy Devices Screen
+2022-04-07 15:45:49,967 Did you hear setup tone and Click on yes button
+2022-04-07 15:45:50,934 click on Yes i'm in button in the Help to setup device
+2022-04-07 15:45:51,987 We are in Where is this Device? Screen & click on Room Name
+2022-04-07 15:45:54,833 Room Name Selected now click on next button to redirect to WIFI SSID list
+2022-04-07 15:45:59,442 SSID Selected:Libreclicked next button in the List Of ssid Screen
+2022-04-07 15:46:02,372 click on Next Button
+2022-04-07 15:46:27,185 click on next button in the Linking your Lyric Speaker fox screen
+2022-04-07 15:46:36,175 click on Continue button
+2022-04-07 15:46:38,331 click on continue button
+2022-04-07 15:46:41,825 click on skip tutorials
+2022-04-07 15:46:41,831 Google Home Setup Successfull
+2022-04-07 15:48:07,504 ********Appium Server Starting********
+2022-04-07 15:48:08,738 Could not connect to port 4723 on host 127.0.0.1
+2022-04-07 15:48:08,738 Could not get IP address for host: 127.0.0.1
+2022-04-07 15:48:17,401 ********Android Driver created********
+2022-04-07 15:48:17,401 *********LS10 Device Setup beggining*********
+2022-04-07 15:48:18,356 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-07 15:48:20,628 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-07 15:48:27,176 'Click on OK button in Choose a Account screen'
+2022-04-07 15:48:30,926 click on Plus icon on Home
+2022-04-07 15:48:41,243 Click on Setup a Device
+2022-04-07 15:48:51,450 click on New Device
+2022-04-07 15:48:52,635 *********click on Next*********
+2022-04-07 15:48:53,698 click on next Button Choose a home screen 
+2022-04-07 15:49:01,867 selecting the FriendlyName:Lyric Speaker Box 2397b5 in the list of Device
+2022-04-07 15:49:02,770 click on next button in the NearBy Devices Screen
+2022-04-07 15:49:18,601 Did you hear setup tone and Click on yes button
+2022-04-07 15:49:19,545 click on Yes i'm in button in the Help to setup device
+2022-04-07 15:49:20,614 We are in Where is this Device? Screen & click on Room Name
+2022-04-07 15:49:23,459 Room Name Selected now click on next button to redirect to WIFI SSID list
+2022-04-07 15:49:55,866 we are in Create a unique Nacme screen, click on next Button
+2022-04-07 15:50:01,221 SSID Selected:Libreclicked next button in the List Of ssid Screen
+2022-04-07 15:50:03,610 click on Next Button
+2022-04-07 15:50:33,269 click on next button in the Linking your Lyric Speaker fox screen
+2022-04-07 15:50:44,240 click on Continue button
+2022-04-07 15:50:46,559 click on continue button
+2022-04-07 15:50:49,340 click on skip tutorials
+2022-04-07 15:50:49,343 Google Home Setup Successfull
+2022-04-07 15:52:15,045 ********Appium Server Starting********
+2022-04-07 15:52:16,268 Could not connect to port 4723 on host 127.0.0.1
+2022-04-07 15:52:16,268 Could not get IP address for host: 127.0.0.1
+2022-04-07 15:52:25,363 ********Android Driver created********
+2022-04-07 15:52:25,363 *********LS10 Device Setup beggining*********
+2022-04-07 15:52:26,257 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-07 15:52:28,494 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-07 15:52:34,549 'Click on OK button in Choose a Account screen'
+2022-04-07 15:52:38,333 click on Plus icon on Home
+2022-04-07 15:52:49,431 Click on Setup a Device
+2022-04-07 15:52:59,620 click on New Device
+2022-04-07 15:53:01,269 *********click on Next*********
+2022-04-07 15:53:02,302 click on next Button Choose a home screen 
+2022-04-07 15:53:09,907 selecting the FriendlyName:Lyric Speaker Box 2397b5 in the list of Device
+2022-04-07 15:53:11,572 click on next button in the NearBy Devices Screen
+2022-04-07 15:53:27,716 Did you hear setup tone and Click on yes button
+2022-04-07 15:53:28,604 click on Yes i'm in button in the Help to setup device
+2022-04-07 15:53:29,662 We are in Where is this Device? Screen & click on Room Name
+2022-04-07 15:53:32,546 Room Name Selected now click on next button to redirect to WIFI SSID list
+2022-04-07 15:53:34,738 SSID Selected:Libreclicked next button in the List Of ssid Screen
+2022-04-07 15:53:37,679 click on Next Button
+2022-04-07 15:55:42,277 Found Turn off AP isolation error popup
+2022-04-07 15:57:09,600 ********Appium Server Starting********
+2022-04-07 15:57:10,836 Could not connect to port 4723 on host 127.0.0.1
+2022-04-07 15:57:10,836 Could not get IP address for host: 127.0.0.1
+2022-04-07 15:57:19,912 ********Android Driver created********
+2022-04-07 15:57:19,912 *********LS10 Device Setup beggining*********
+2022-04-07 15:57:20,819 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-07 15:57:23,929 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-07 15:57:30,078 'Click on OK button in Choose a Account screen'
+2022-04-07 15:59:59,018 ********Appium Server Starting********
+2022-04-07 16:00:00,176 Could not connect to port 4723 on host 127.0.0.1
+2022-04-07 16:00:00,176 Could not get IP address for host: 127.0.0.1
+2022-04-07 16:00:09,991 ********Android Driver created********
+2022-04-07 16:00:09,991 *********LS10 Device Setup beggining*********
+2022-04-07 16:00:10,914 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-07 16:00:13,174 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-07 16:00:19,160 'Click on OK button in Choose a Account screen'
+2022-04-07 16:00:51,572 selecting the FriendlyName:Lyric Speaker Box 2397b5 in the list of Device
+2022-04-07 16:00:52,442 click on next button in the NearBy Devices Screen
+2022-04-07 17:13:40,772 ********Appium Server Starting********
+2022-04-07 17:13:41,966 Could not connect to port 4723 on host 127.0.0.1
+2022-04-07 17:13:41,966 Could not get IP address for host: 127.0.0.1
+2022-04-07 17:13:52,229 ********Android Driver created********
+2022-04-07 17:13:52,229 *********LS10 Device Setup beggining*********
+2022-04-07 17:13:53,306 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-07 17:13:55,564 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-07 17:14:01,518 'Click on OK button in Choose a Account screen'

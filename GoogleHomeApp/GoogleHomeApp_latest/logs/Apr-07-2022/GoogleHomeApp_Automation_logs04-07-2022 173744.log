@@ -1,0 +1,41 @@
+2022-04-07 17:37:44,792 ********Appium Server Starting********
+2022-04-07 17:37:46,044 Could not connect to port 4723 on host 127.0.0.1
+2022-04-07 17:37:46,044 Could not get IP address for host: 127.0.0.1
+2022-04-07 17:37:59,652 ********Android Driver created********
+2022-04-07 17:37:59,652 *********LS10 Device Setup beggining*********
+2022-04-07 17:38:00,360 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-07 17:38:03,879 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-07 17:38:09,874 'Click on OK button in Choose a Account screen'
+2022-04-07 17:38:11,373 *********click on Next*********
+2022-04-07 17:38:14,133 click on Plus icon on Home
+2022-04-07 17:38:28,383 Click on Setup a Device
+2022-04-07 17:38:38,590 click on New Device
+2022-04-07 17:38:39,728 *********click on Next*********
+2022-04-07 17:38:40,857 click on next Button Choose a home screen 
+2022-04-07 17:38:48,994 selecting the FriendlyName:Lyric Speaker Box 2397b5 in the list of Device
+2022-04-07 17:38:49,905 click on next button in the NearBy Devices Screen
+2022-04-07 17:39:06,903 Did you hear setup tone and Click on yes button
+2022-04-07 17:39:07,982 click on Yes i'm in button in the Help to setup device
+2022-04-07 17:39:09,148 We are in Where is this Device? Screen & click on Room Name
+2022-04-07 17:39:11,971 Room Name Selected now click on next button to redirect to WIFI SSID list
+2022-04-07 17:39:16,638 SSID Selected:Libreclicked next button in the List Of ssid Screen
+2022-04-07 17:39:19,176 click on Next Button
+2022-04-07 17:39:35,065 click on next button in the Linking your Lyric Speaker fox screen
+2022-04-07 17:39:51,926 click on Continue button
+2022-04-07 17:39:55,044 click on continue button
+2022-04-07 17:39:59,029 click on skip tutorials
+2022-04-07 17:39:59,032 Google Home Setup Successfull
+2022-04-07 17:41:24,760 ********Appium Server Starting********
+2022-04-07 17:41:25,993 Could not connect to port 4723 on host 127.0.0.1
+2022-04-07 17:41:25,993 Could not get IP address for host: 127.0.0.1
+2022-04-07 17:41:39,024 ********Android Driver created********
+2022-04-07 17:41:39,024 *********LS10 Device Setup beggining*********
+2022-04-07 17:41:39,780 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-07 17:41:43,028 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-07 17:41:49,054 'Click on OK button in Choose a Account screen'
+2022-04-07 17:41:50,575 *********click on Next*********
+2022-04-07 17:41:53,435 click on Plus icon on Home
+2022-04-07 17:42:05,455 Click on Setup a Device
+2022-04-07 17:42:15,663 click on New Device
+2022-04-07 17:42:16,783 *********click on Next*********
+2022-04-07 17:42:17,948 click on next Button Choose a home screen 

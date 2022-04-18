@@ -1,0 +1,21 @@
+2022-04-11 19:09:29,716 ********Appium Server Starting********
+2022-04-11 19:09:30,953 Could not connect to port 4723 on host 127.0.0.1
+2022-04-11 19:09:30,953 Could not get IP address for host: 127.0.0.1
+2022-04-11 19:09:40,824 ********Android Driver created********
+2022-04-11 19:09:40,824 *********LS10 Device Setup beggining*********
+2022-04-11 19:09:41,323 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-11 19:09:43,558 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 19:09:54,643 'Click on OK button in Choose a Account screen'
+2022-04-11 19:10:30,867 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 19:10:41,806 'Click on OK button in Choose a Account screen'
+2022-04-11 19:10:50,273 *********click on Next*********
+2022-04-11 19:10:54,674 click on Plus icon on Home
+2022-04-11 19:11:05,475 Click on Setup a Device
+2022-04-11 19:11:16,168 click on New Device
+2022-04-11 19:11:29,801 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002700817CEB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/81ca5ddb-b662-4c24-b634-3915731abf90/element
+2022-04-11 19:11:33,870 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002700817CE80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/81ca5ddb-b662-4c24-b634-3915731abf90/touch/perform
+2022-04-11 19:11:35,901 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002700817CF70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/81ca5ddb-b662-4c24-b634-3915731abf90/touch/perform
+2022-04-11 19:11:37,922 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000270081BC100>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/81ca5ddb-b662-4c24-b634-3915731abf90/touch/perform
+2022-04-11 19:11:42,002 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000270081BC640>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/81ca5ddb-b662-4c24-b634-3915731abf90/element
+2022-04-11 19:11:44,031 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000270081BC7F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/81ca5ddb-b662-4c24-b634-3915731abf90/element
+2022-04-11 19:11:46,055 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000270081BC8E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/81ca5ddb-b662-4c24-b634-3915731abf90/element

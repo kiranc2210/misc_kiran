@@ -1,0 +1,7 @@
+2022-04-08 23:26:37,695 ********Appium Server Starting********
+2022-04-08 23:26:42,185 Could not connect to port 4723 on host 127.0.0.1
+2022-04-08 23:26:42,186 Could not get IP address for host: 127.0.0.1
+2022-04-08 23:26:44,519 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000210FEA9B7F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+2022-04-08 23:26:46,568 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000210FEA9BC10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+2022-04-08 23:26:48,609 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000210FEA9BD60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+2022-04-08 23:26:55,719 ********Appium Server Starting********

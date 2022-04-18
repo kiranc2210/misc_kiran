@@ -1,0 +1,34 @@
+2022-04-07 20:37:17,958 ********Appium Server Starting********
+2022-04-07 20:37:19,173 Could not connect to port 4723 on host 127.0.0.1
+2022-04-07 20:37:19,173 Could not get IP address for host: 127.0.0.1
+2022-04-07 20:37:29,592 ********Android Driver created********
+2022-04-07 20:37:29,592 *********LS10 Device Setup beggining*********
+2022-04-07 20:37:30,342 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-07 20:37:32,586 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-07 20:37:39,256 'Click on OK button in Choose a Account screen'
+2022-04-07 20:38:15,731 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-07 20:38:21,693 'Click on OK button in Choose a Account screen'
+2022-04-07 20:38:23,164 *********click on Next*********
+2022-04-07 20:38:26,835 click on Plus icon on Home
+2022-04-07 20:38:37,774 Click on Setup a Device
+2022-04-07 20:38:47,957 click on New Device
+2022-04-07 20:38:48,948 *********click on Next*********
+2022-04-07 20:38:49,957 click on next Button Choose a home screen 
+2022-04-07 20:39:54,264 clck on yes button in the Lyric Speaker Box found screen
+2022-04-07 20:40:25,844 Did you hear setup tone and Click on yes button
+2022-04-07 20:40:26,855 click on Yes i'm in button in the Help to setup device
+2022-04-07 20:40:27,911 We are in Where is this Device? Screen & click on Room Name
+2022-04-07 20:40:30,693 Room Name Selected now click on next button to redirect to WIFI SSID list
+2022-04-07 20:40:35,126 SSID Selected:Libreclicked next button in the List Of ssid Screen
+2022-04-07 20:40:37,471 click on Next Button
+2022-04-07 20:41:07,054 click on next button in the Linking your Lyric Speaker fox screen
+2022-04-07 20:41:15,989 click on Continue button
+2022-04-07 20:41:18,506 click on continue button
+2022-04-07 20:41:21,603 click on skip tutorials
+2022-04-07 20:41:21,608 Google Home Setup Successfull
+2022-04-07 20:42:48,336 ********Appium Server Starting********
+2022-04-07 20:42:49,774 Could not connect to port 4723 on host 127.0.0.1
+2022-04-07 20:42:49,775 Could not get IP address for host: 127.0.0.1
+2022-04-07 20:42:51,930 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E0934D70A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+2022-04-07 20:42:53,971 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E0934D7190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+2022-04-07 20:42:55,990 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E0934D72E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session

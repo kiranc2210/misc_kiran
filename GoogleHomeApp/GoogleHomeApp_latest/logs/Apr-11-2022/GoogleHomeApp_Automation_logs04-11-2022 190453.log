@@ -1,0 +1,15 @@
+2022-04-11 19:04:53,536 ********Appium Server Starting********
+2022-04-11 19:04:54,780 Could not connect to port 4723 on host 127.0.0.1
+2022-04-11 19:04:54,780 Could not get IP address for host: 127.0.0.1
+2022-04-11 19:05:03,934 ********Android Driver created********
+2022-04-11 19:05:03,934 *********LS10 Device Setup beggining*********
+2022-04-11 19:05:04,390 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-11 19:05:06,653 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 19:05:17,813 'Click on OK button in Choose a Account screen'
+2022-04-11 19:05:54,417 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 19:06:05,391 'Click on OK button in Choose a Account screen'
+2022-04-11 19:06:18,919 *********click on Next*********
+2022-04-11 19:06:20,560 click on Plus icon on Home
+2022-04-11 19:06:32,367 Click on Setup a Device
+2022-04-11 19:06:43,056 click on New Device
+2022-04-11 19:07:01,768 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F1A45ACEB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/ff1238b8-5428-4289-a215-298cef722490/element

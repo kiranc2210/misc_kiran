@@ -1,0 +1,17 @@
+2022-04-08 23:27:47,473 ********Appium Server Starting********
+2022-04-08 23:27:49,186 Could not connect to port 4723 on host 127.0.0.1
+2022-04-08 23:27:49,186 Could not get IP address for host: 127.0.0.1
+2022-04-08 23:28:06,325 ********Android Driver created********
+2022-04-08 23:28:06,325 *********LS10 Device Setup beggining*********
+2022-04-08 23:28:07,482 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-08 23:28:09,759 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-08 23:28:20,711 'Click on OK button in Choose a Account screen'
+2022-04-08 23:28:28,738 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027457068250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/32ba690b-51c0-4581-8a65-596d260e6f6b/element
+2022-04-08 23:28:30,762 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027457068430>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/32ba690b-51c0-4581-8a65-596d260e6f6b/element
+2022-04-08 23:28:32,788 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027457068520>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/32ba690b-51c0-4581-8a65-596d260e6f6b/element
+2022-04-08 23:28:36,872 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000274570688B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/32ba690b-51c0-4581-8a65-596d260e6f6b
+2022-04-08 23:28:38,938 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027457068A00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/32ba690b-51c0-4581-8a65-596d260e6f6b
+2022-04-08 23:28:40,987 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027457068B50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/32ba690b-51c0-4581-8a65-596d260e6f6b
+2022-04-08 23:28:49,081 ********Appium Server Starting********
+2022-04-08 23:28:50,353 Could not connect to port 4723 on host 127.0.0.1
+2022-04-08 23:28:50,353 Could not get IP address for host: 127.0.0.1

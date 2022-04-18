@@ -1,0 +1,444 @@
+2022-04-09 11:47:19,244 ********Appium Server Starting********
+2022-04-09 11:47:20,557 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 11:47:20,557 Could not get IP address for host: 127.0.0.1
+2022-04-09 11:47:32,814 ********Android Driver created********
+2022-04-09 11:47:32,814 *********LS10 Device Setup beggining*********
+2022-04-09 11:48:33,598 ********Appium Server Starting********
+2022-04-09 11:48:34,872 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 11:48:34,872 Could not get IP address for host: 127.0.0.1
+2022-04-09 11:48:47,163 ********Android Driver created********
+2022-04-09 11:48:47,164 *********LS10 Device Setup beggining*********
+2022-04-09 11:49:47,646 ********Appium Server Starting********
+2022-04-09 11:49:48,939 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 11:49:48,939 Could not get IP address for host: 127.0.0.1
+2022-04-09 11:50:01,107 ********Android Driver created********
+2022-04-09 11:50:01,107 *********LS10 Device Setup beggining*********
+2022-04-09 11:51:01,581 ********Appium Server Starting********
+2022-04-09 11:51:02,881 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 11:51:02,881 Could not get IP address for host: 127.0.0.1
+2022-04-09 11:51:14,945 ********Android Driver created********
+2022-04-09 11:51:14,945 *********LS10 Device Setup beggining*********
+2022-04-09 11:52:15,316 ********Appium Server Starting********
+2022-04-09 11:52:16,584 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 11:52:16,584 Could not get IP address for host: 127.0.0.1
+2022-04-09 11:52:28,604 ********Android Driver created********
+2022-04-09 11:52:28,604 *********LS10 Device Setup beggining*********
+2022-04-09 11:53:29,334 ********Appium Server Starting********
+2022-04-09 11:53:30,626 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 11:53:30,626 Could not get IP address for host: 127.0.0.1
+2022-04-09 11:53:42,793 ********Android Driver created********
+2022-04-09 11:53:42,793 *********LS10 Device Setup beggining*********
+2022-04-09 11:54:43,060 ********Appium Server Starting********
+2022-04-09 11:54:44,359 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 11:54:44,359 Could not get IP address for host: 127.0.0.1
+2022-04-09 11:54:55,433 ********Android Driver created********
+2022-04-09 11:54:55,433 *********LS10 Device Setup beggining*********
+2022-04-09 11:55:55,894 ********Appium Server Starting********
+2022-04-09 11:55:57,179 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 11:55:57,179 Could not get IP address for host: 127.0.0.1
+2022-04-09 11:56:07,601 ********Android Driver created********
+2022-04-09 11:56:07,601 *********LS10 Device Setup beggining*********
+2022-04-09 11:57:07,927 ********Appium Server Starting********
+2022-04-09 11:57:09,246 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 11:57:09,246 Could not get IP address for host: 127.0.0.1
+2022-04-09 11:57:20,234 ********Android Driver created********
+2022-04-09 11:57:20,234 *********LS10 Device Setup beggining*********
+2022-04-09 11:58:21,043 ********Appium Server Starting********
+2022-04-09 11:58:22,335 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 11:58:22,335 Could not get IP address for host: 127.0.0.1
+2022-04-09 11:58:34,867 ********Android Driver created********
+2022-04-09 11:58:34,867 *********LS10 Device Setup beggining*********
+2022-04-09 11:59:35,206 ********Appium Server Starting********
+2022-04-09 11:59:36,506 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 11:59:36,506 Could not get IP address for host: 127.0.0.1
+2022-04-09 11:59:48,582 ********Android Driver created********
+2022-04-09 11:59:48,583 *********LS10 Device Setup beggining*********
+2022-04-09 12:00:48,884 ********Appium Server Starting********
+2022-04-09 12:00:50,180 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:00:50,180 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:01:02,746 ********Android Driver created********
+2022-04-09 12:01:02,746 *********LS10 Device Setup beggining*********
+2022-04-09 12:02:03,573 ********Appium Server Starting********
+2022-04-09 12:02:04,858 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:02:04,858 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:02:17,030 ********Android Driver created********
+2022-04-09 12:02:17,031 *********LS10 Device Setup beggining*********
+2022-04-09 12:03:17,804 ********Appium Server Starting********
+2022-04-09 12:03:19,104 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:03:19,104 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:03:31,206 ********Android Driver created********
+2022-04-09 12:03:31,206 *********LS10 Device Setup beggining*********
+2022-04-09 12:04:31,835 ********Appium Server Starting********
+2022-04-09 12:04:33,117 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:04:33,117 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:04:44,977 ********Android Driver created********
+2022-04-09 12:04:44,977 *********LS10 Device Setup beggining*********
+2022-04-09 12:05:45,512 ********Appium Server Starting********
+2022-04-09 12:05:46,810 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:05:46,810 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:05:58,782 ********Android Driver created********
+2022-04-09 12:05:58,782 *********LS10 Device Setup beggining*********
+2022-04-09 12:06:59,444 ********Appium Server Starting********
+2022-04-09 12:07:00,743 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:07:00,743 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:07:12,576 ********Android Driver created********
+2022-04-09 12:07:12,577 *********LS10 Device Setup beggining*********
+2022-04-09 12:08:13,323 ********Appium Server Starting********
+2022-04-09 12:08:14,617 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:08:14,617 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:08:25,783 ********Android Driver created********
+2022-04-09 12:08:25,783 *********LS10 Device Setup beggining*********
+2022-04-09 12:09:26,368 ********Appium Server Starting********
+2022-04-09 12:09:27,655 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:09:27,655 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:09:39,733 ********Android Driver created********
+2022-04-09 12:09:39,734 *********LS10 Device Setup beggining*********
+2022-04-09 12:10:40,355 ********Appium Server Starting********
+2022-04-09 12:10:41,639 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:10:41,640 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:10:52,131 ********Android Driver created********
+2022-04-09 12:10:52,132 *********LS10 Device Setup beggining*********
+2022-04-09 12:11:52,705 ********Appium Server Starting********
+2022-04-09 12:11:53,984 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:11:53,985 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:12:05,746 ********Android Driver created********
+2022-04-09 12:12:05,746 *********LS10 Device Setup beggining*********
+2022-04-09 12:13:05,996 ********Appium Server Starting********
+2022-04-09 12:13:07,270 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:13:07,270 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:13:19,061 ********Android Driver created********
+2022-04-09 12:13:19,061 *********LS10 Device Setup beggining*********
+2022-04-09 12:14:19,731 ********Appium Server Starting********
+2022-04-09 12:14:21,029 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:14:21,029 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:14:32,393 ********Android Driver created********
+2022-04-09 12:14:32,393 *********LS10 Device Setup beggining*********
+2022-04-09 12:15:32,903 ********Appium Server Starting********
+2022-04-09 12:15:34,190 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:15:34,190 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:15:45,685 ********Android Driver created********
+2022-04-09 12:15:45,685 *********LS10 Device Setup beggining*********
+2022-04-09 12:16:46,173 ********Appium Server Starting********
+2022-04-09 12:16:47,443 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:16:47,443 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:16:58,623 ********Android Driver created********
+2022-04-09 12:16:58,623 *********LS10 Device Setup beggining*********
+2022-04-09 12:17:59,041 ********Appium Server Starting********
+2022-04-09 12:18:00,318 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:18:00,318 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:18:10,603 ********Android Driver created********
+2022-04-09 12:18:10,603 *********LS10 Device Setup beggining*********
+2022-04-09 12:19:11,173 ********Appium Server Starting********
+2022-04-09 12:19:12,457 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:19:12,457 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:19:23,995 ********Android Driver created********
+2022-04-09 12:19:23,995 *********LS10 Device Setup beggining*********
+2022-04-09 12:20:24,586 ********Appium Server Starting********
+2022-04-09 12:20:25,883 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:20:25,883 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:20:37,463 ********Android Driver created********
+2022-04-09 12:20:37,463 *********LS10 Device Setup beggining*********
+2022-04-09 12:21:37,973 ********Appium Server Starting********
+2022-04-09 12:21:39,251 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:21:39,251 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:21:51,120 ********Android Driver created********
+2022-04-09 12:21:51,120 *********LS10 Device Setup beggining*********
+2022-04-09 12:22:51,641 ********Appium Server Starting********
+2022-04-09 12:22:52,930 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:22:52,930 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:23:04,703 ********Android Driver created********
+2022-04-09 12:23:04,703 *********LS10 Device Setup beggining*********
+2022-04-09 12:24:05,405 ********Appium Server Starting********
+2022-04-09 12:24:06,700 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:24:06,700 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:24:18,572 ********Android Driver created********
+2022-04-09 12:24:18,572 *********LS10 Device Setup beggining*********
+2022-04-09 12:25:19,191 ********Appium Server Starting********
+2022-04-09 12:25:20,470 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:25:20,470 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:25:32,124 ********Android Driver created********
+2022-04-09 12:25:32,124 *********LS10 Device Setup beggining*********
+2022-04-09 12:26:32,949 ********Appium Server Starting********
+2022-04-09 12:26:34,232 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:26:34,232 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:26:45,689 ********Android Driver created********
+2022-04-09 12:26:45,689 *********LS10 Device Setup beggining*********
+2022-04-09 12:27:46,389 ********Appium Server Starting********
+2022-04-09 12:27:47,677 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:27:47,677 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:27:59,123 ********Android Driver created********
+2022-04-09 12:27:59,128 *********LS10 Device Setup beggining*********
+2022-04-09 12:28:59,586 ********Appium Server Starting********
+2022-04-09 12:29:00,883 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:29:00,883 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:29:12,287 ********Android Driver created********
+2022-04-09 12:29:12,287 *********LS10 Device Setup beggining*********
+2022-04-09 12:30:12,941 ********Appium Server Starting********
+2022-04-09 12:30:14,257 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:30:14,257 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:30:25,596 ********Android Driver created********
+2022-04-09 12:30:25,596 *********LS10 Device Setup beggining*********
+2022-04-09 12:31:26,128 ********Appium Server Starting********
+2022-04-09 12:31:27,410 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:31:27,410 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:31:38,851 ********Android Driver created********
+2022-04-09 12:31:38,851 *********LS10 Device Setup beggining*********
+2022-04-09 12:32:39,097 ********Appium Server Starting********
+2022-04-09 12:32:40,414 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:32:40,415 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:32:51,394 ********Android Driver created********
+2022-04-09 12:32:51,394 *********LS10 Device Setup beggining*********
+2022-04-09 12:33:51,800 ********Appium Server Starting********
+2022-04-09 12:33:53,107 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:33:53,107 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:34:04,665 ********Android Driver created********
+2022-04-09 12:34:04,665 *********LS10 Device Setup beggining*********
+2022-04-09 12:35:05,275 ********Appium Server Starting********
+2022-04-09 12:35:06,563 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:35:06,563 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:35:18,410 ********Android Driver created********
+2022-04-09 12:35:18,410 *********LS10 Device Setup beggining*********
+2022-04-09 12:36:18,771 ********Appium Server Starting********
+2022-04-09 12:36:20,055 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:36:20,055 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:36:31,472 ********Android Driver created********
+2022-04-09 12:36:31,474 *********LS10 Device Setup beggining*********
+2022-04-09 12:37:32,022 ********Appium Server Starting********
+2022-04-09 12:37:33,306 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:37:33,306 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:37:44,541 ********Android Driver created********
+2022-04-09 12:37:44,541 *********LS10 Device Setup beggining*********
+2022-04-09 12:38:45,273 ********Appium Server Starting********
+2022-04-09 12:38:46,558 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:38:46,558 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:38:57,864 ********Android Driver created********
+2022-04-09 12:38:57,864 *********LS10 Device Setup beggining*********
+2022-04-09 12:39:58,400 ********Appium Server Starting********
+2022-04-09 12:39:59,690 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:39:59,690 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:40:11,000 ********Android Driver created********
+2022-04-09 12:40:11,000 *********LS10 Device Setup beggining*********
+2022-04-09 12:41:11,542 ********Appium Server Starting********
+2022-04-09 12:41:12,809 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:41:12,809 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:41:24,171 ********Android Driver created********
+2022-04-09 12:41:24,171 *********LS10 Device Setup beggining*********
+2022-04-09 12:42:24,706 ********Appium Server Starting********
+2022-04-09 12:42:25,986 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:42:25,986 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:42:38,550 ********Android Driver created********
+2022-04-09 12:42:38,550 *********LS10 Device Setup beggining*********
+2022-04-09 12:43:39,045 ********Appium Server Starting********
+2022-04-09 12:43:40,322 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:43:40,322 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:43:51,629 ********Android Driver created********
+2022-04-09 12:43:51,629 *********LS10 Device Setup beggining*********
+2022-04-09 12:44:52,088 ********Appium Server Starting********
+2022-04-09 12:44:53,355 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:44:53,355 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:45:05,113 ********Android Driver created********
+2022-04-09 12:45:05,113 *********LS10 Device Setup beggining*********
+2022-04-09 12:46:05,777 ********Appium Server Starting********
+2022-04-09 12:46:07,072 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:46:07,072 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:46:17,790 ********Android Driver created********
+2022-04-09 12:46:17,790 *********LS10 Device Setup beggining*********
+2022-04-09 12:47:18,519 ********Appium Server Starting********
+2022-04-09 12:47:19,791 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:47:19,791 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:47:31,387 ********Android Driver created********
+2022-04-09 12:47:31,387 *********LS10 Device Setup beggining*********
+2022-04-09 12:48:32,036 ********Appium Server Starting********
+2022-04-09 12:48:33,305 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:48:33,305 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:48:45,006 ********Android Driver created********
+2022-04-09 12:48:45,006 *********LS10 Device Setup beggining*********
+2022-04-09 12:49:45,332 ********Appium Server Starting********
+2022-04-09 12:49:46,626 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:49:46,626 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:49:57,931 ********Android Driver created********
+2022-04-09 12:49:57,931 *********LS10 Device Setup beggining*********
+2022-04-09 12:50:58,428 ********Appium Server Starting********
+2022-04-09 12:50:59,731 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:50:59,731 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:51:11,026 ********Android Driver created********
+2022-04-09 12:51:11,026 *********LS10 Device Setup beggining*********
+2022-04-09 12:52:11,559 ********Appium Server Starting********
+2022-04-09 12:52:12,832 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:52:12,832 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:52:24,310 ********Android Driver created********
+2022-04-09 12:52:24,310 *********LS10 Device Setup beggining*********
+2022-04-09 12:53:25,012 ********Appium Server Starting********
+2022-04-09 12:53:26,284 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:53:26,284 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:53:37,764 ********Android Driver created********
+2022-04-09 12:53:37,764 *********LS10 Device Setup beggining*********
+2022-04-09 12:54:38,282 ********Appium Server Starting********
+2022-04-09 12:54:39,554 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:54:39,554 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:54:50,718 ********Android Driver created********
+2022-04-09 12:54:50,719 *********LS10 Device Setup beggining*********
+2022-04-09 12:55:50,974 ********Appium Server Starting********
+2022-04-09 12:55:52,247 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:55:52,247 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:56:03,611 ********Android Driver created********
+2022-04-09 12:56:03,611 *********LS10 Device Setup beggining*********
+2022-04-09 12:57:04,091 ********Appium Server Starting********
+2022-04-09 12:57:05,382 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:57:05,382 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:57:16,987 ********Android Driver created********
+2022-04-09 12:57:16,987 *********LS10 Device Setup beggining*********
+2022-04-09 12:58:17,618 ********Appium Server Starting********
+2022-04-09 12:58:18,899 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:58:18,899 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:58:30,126 ********Android Driver created********
+2022-04-09 12:58:30,126 *********LS10 Device Setup beggining*********
+2022-04-09 12:59:30,760 ********Appium Server Starting********
+2022-04-09 12:59:32,039 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 12:59:32,039 Could not get IP address for host: 127.0.0.1
+2022-04-09 12:59:43,221 ********Android Driver created********
+2022-04-09 12:59:43,221 *********LS10 Device Setup beggining*********
+2022-04-09 13:00:43,604 ********Appium Server Starting********
+2022-04-09 13:00:44,889 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:00:44,889 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:00:56,207 ********Android Driver created********
+2022-04-09 13:00:56,207 *********LS10 Device Setup beggining*********
+2022-04-09 13:01:56,742 ********Appium Server Starting********
+2022-04-09 13:01:58,033 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:01:58,033 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:02:08,923 ********Android Driver created********
+2022-04-09 13:02:08,923 *********LS10 Device Setup beggining*********
+2022-04-09 13:03:09,472 ********Appium Server Starting********
+2022-04-09 13:03:10,753 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:03:10,753 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:03:22,144 ********Android Driver created********
+2022-04-09 13:03:22,144 *********LS10 Device Setup beggining*********
+2022-04-09 13:04:22,673 ********Appium Server Starting********
+2022-04-09 13:04:23,950 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:04:23,950 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:04:35,335 ********Android Driver created********
+2022-04-09 13:04:35,335 *********LS10 Device Setup beggining*********
+2022-04-09 13:05:35,771 ********Appium Server Starting********
+2022-04-09 13:05:37,060 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:05:37,060 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:05:48,445 ********Android Driver created********
+2022-04-09 13:05:48,445 *********LS10 Device Setup beggining*********
+2022-04-09 13:06:48,730 ********Appium Server Starting********
+2022-04-09 13:06:50,033 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:06:50,033 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:07:01,374 ********Android Driver created********
+2022-04-09 13:07:01,374 *********LS10 Device Setup beggining*********
+2022-04-09 13:08:01,854 ********Appium Server Starting********
+2022-04-09 13:08:03,118 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:08:03,118 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:08:14,574 ********Android Driver created********
+2022-04-09 13:08:14,574 *********LS10 Device Setup beggining*********
+2022-04-09 13:09:15,067 ********Appium Server Starting********
+2022-04-09 13:09:16,343 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:09:16,343 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:09:27,758 ********Android Driver created********
+2022-04-09 13:09:27,758 *********LS10 Device Setup beggining*********
+2022-04-09 13:10:28,284 ********Appium Server Starting********
+2022-04-09 13:10:29,576 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:10:29,576 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:10:41,359 ********Android Driver created********
+2022-04-09 13:10:41,359 *********LS10 Device Setup beggining*********
+2022-04-09 13:11:41,994 ********Appium Server Starting********
+2022-04-09 13:11:43,284 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:11:43,284 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:11:55,300 ********Android Driver created********
+2022-04-09 13:11:55,300 *********LS10 Device Setup beggining*********
+2022-04-09 13:12:55,581 ********Appium Server Starting********
+2022-04-09 13:12:56,889 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:12:56,890 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:13:09,683 ********Android Driver created********
+2022-04-09 13:13:09,683 *********LS10 Device Setup beggining*********
+2022-04-09 13:14:09,969 ********Appium Server Starting********
+2022-04-09 13:14:11,250 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:14:11,250 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:14:22,760 ********Android Driver created********
+2022-04-09 13:14:22,760 *********LS10 Device Setup beggining*********
+2022-04-09 13:15:23,343 ********Appium Server Starting********
+2022-04-09 13:15:24,642 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:15:24,642 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:15:35,179 ********Android Driver created********
+2022-04-09 13:15:35,180 *********LS10 Device Setup beggining*********
+2022-04-09 13:16:35,719 ********Appium Server Starting********
+2022-04-09 13:16:37,005 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:16:37,005 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:16:48,548 ********Android Driver created********
+2022-04-09 13:16:48,548 *********LS10 Device Setup beggining*********
+2022-04-09 13:17:49,266 ********Appium Server Starting********
+2022-04-09 13:17:50,549 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:17:50,549 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:18:02,033 ********Android Driver created********
+2022-04-09 13:18:02,033 *********LS10 Device Setup beggining*********
+2022-04-09 13:19:02,770 ********Appium Server Starting********
+2022-04-09 13:19:04,049 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:19:04,049 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:19:15,645 ********Android Driver created********
+2022-04-09 13:19:15,646 *********LS10 Device Setup beggining*********
+2022-04-09 13:20:16,240 ********Appium Server Starting********
+2022-04-09 13:20:17,530 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:20:17,530 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:20:28,980 ********Android Driver created********
+2022-04-09 13:20:28,980 *********LS10 Device Setup beggining*********
+2022-04-09 13:21:29,555 ********Appium Server Starting********
+2022-04-09 13:21:30,830 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:21:30,830 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:21:42,589 ********Android Driver created********
+2022-04-09 13:21:42,589 *********LS10 Device Setup beggining*********
+2022-04-09 13:22:43,074 ********Appium Server Starting********
+2022-04-09 13:22:44,365 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:22:44,365 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:22:55,659 ********Android Driver created********
+2022-04-09 13:22:55,659 *********LS10 Device Setup beggining*********
+2022-04-09 13:23:56,081 ********Appium Server Starting********
+2022-04-09 13:23:57,382 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:23:57,382 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:24:08,828 ********Android Driver created********
+2022-04-09 13:24:08,828 *********LS10 Device Setup beggining*********
+2022-04-09 13:25:09,340 ********Appium Server Starting********
+2022-04-09 13:25:10,629 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:25:10,629 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:25:22,080 ********Android Driver created********
+2022-04-09 13:25:22,080 *********LS10 Device Setup beggining*********
+2022-04-09 13:26:22,660 ********Appium Server Starting********
+2022-04-09 13:26:23,935 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:26:23,935 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:26:35,601 ********Android Driver created********
+2022-04-09 13:26:35,601 *********LS10 Device Setup beggining*********
+2022-04-09 13:27:36,320 ********Appium Server Starting********
+2022-04-09 13:27:37,602 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:27:37,602 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:27:47,990 ********Android Driver created********
+2022-04-09 13:27:47,990 *********LS10 Device Setup beggining*********
+2022-04-09 13:28:48,719 ********Appium Server Starting********
+2022-04-09 13:28:50,017 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:28:50,017 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:29:00,705 ********Android Driver created********
+2022-04-09 13:29:00,705 *********LS10 Device Setup beggining*********
+2022-04-09 13:30:01,199 ********Appium Server Starting********
+2022-04-09 13:30:02,475 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:30:02,475 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:30:13,890 ********Android Driver created********
+2022-04-09 13:30:13,890 *********LS10 Device Setup beggining*********
+2022-04-09 13:31:14,512 ********Appium Server Starting********
+2022-04-09 13:31:15,796 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:31:15,796 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:31:26,744 ********Android Driver created********
+2022-04-09 13:31:26,744 *********LS10 Device Setup beggining*********
+2022-04-09 13:32:27,209 ********Appium Server Starting********
+2022-04-09 13:32:28,505 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:32:28,505 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:32:39,942 ********Android Driver created********
+2022-04-09 13:32:39,942 *********LS10 Device Setup beggining*********
+2022-04-09 13:33:40,182 ********Appium Server Starting********
+2022-04-09 13:33:41,454 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:33:41,454 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:33:52,993 ********Android Driver created********
+2022-04-09 13:33:52,993 *********LS10 Device Setup beggining*********
+2022-04-09 13:34:53,276 ********Appium Server Starting********
+2022-04-09 13:34:54,562 Could not connect to port 4723 on host 127.0.0.1
+2022-04-09 13:34:54,562 Could not get IP address for host: 127.0.0.1
+2022-04-09 13:35:02,384 ********Appium Server Starting********

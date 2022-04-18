@@ -1,0 +1,14 @@
+2022-04-11 18:50:15,301 ********Appium Server Starting********
+2022-04-11 18:50:16,519 Could not connect to port 4723 on host 127.0.0.1
+2022-04-11 18:50:16,519 Could not get IP address for host: 127.0.0.1
+2022-04-11 18:50:26,538 ********Android Driver created********
+2022-04-11 18:50:26,538 *********LS10 Device Setup beggining*********
+2022-04-11 18:50:27,075 Hurry Google Home app Launched Successfully and Staretd automating the App
+2022-04-11 18:50:29,299 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 18:50:40,470 'Click on OK button in Choose a Account screen'
+2022-04-11 18:51:16,876 Choose a Account You will be able to control the devices and Services in this Home
+2022-04-11 18:51:27,877 'Click on OK button in Choose a Account screen'
+2022-04-11 18:51:29,176 *********click on Next*********
+2022-04-11 18:51:30,822 click on Plus icon on Home
+2022-04-11 18:51:41,606 Click on Setup a Device
+2022-04-11 18:51:52,289 click on New Device

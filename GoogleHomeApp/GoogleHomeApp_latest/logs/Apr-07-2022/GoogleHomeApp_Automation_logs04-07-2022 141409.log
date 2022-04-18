@@ -1,0 +1,6 @@
+2022-04-07 14:14:09,125 ********Appium Server Starting********
+2022-04-07 14:14:10,361 Could not connect to port 4723 on host 127.0.0.1
+2022-04-07 14:14:10,361 Could not get IP address for host: 127.0.0.1
+2022-04-07 14:14:30,444 ********Android Driver created********
+2022-04-07 14:14:30,444 *********LS10 Device Setup beggining*********
+2022-04-07 14:14:31,392 Hurry Google Home app Launched Successfully and Staretd automating the App
